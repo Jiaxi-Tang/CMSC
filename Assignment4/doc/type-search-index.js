@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"ManagementCompany"},{"p":"<Unnamed>","l":"Plot"},{"p":"<Unnamed>","l":"Property"},{"l":"所有类","url":"allclasses-index.html"}]
