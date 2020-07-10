@@ -1,3 +1,3 @@
-# CMSC
+# Test1
 Repository for CMSC classes
-This repository is for holding the projects of CMSC 203 only for now
+CMSC 110 Github Assignment Tang Jiaxi This is my private repository in GitHub.
